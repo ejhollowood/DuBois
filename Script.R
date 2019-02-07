@@ -65,4 +65,4 @@ ggplot(df) +
   labs(title = "ILLITERACY.") +
 
   # save as png
-  ggsave("illiteracy.png", height = 12, width = 9, unit = "cm")
+  ggsave("illiteracy_ggplot.png", height = 12, width = 9, unit = "cm")

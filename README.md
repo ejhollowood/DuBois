@@ -1,7 +1,9 @@
 # Recreating a hand-drawn Du Bois infographic in ggplot
 
 The original
-![alt text](https://github.com/ejhollowood/DuBois/blob/master/illiteracy_original.png)
+
+<img src="https://github.com/ejhollowood/DuBois/blob/master/illiteracy_original.png" width="600" height="800" />
 
 The ggplot version
-![alt text](https://github.com/ejhollowood/DuBois/blob/master/illiteracy_ggplot.png)
+
+<img src="https://github.com/ejhollowood/DuBois/blob/master/illiteracy_ggplot.png" width="600" height="800" />

@@ -1,4 +1,4 @@
-# Load libraries
+# Load packages
 library(tidyverse)
 
 # Create tibble with data
